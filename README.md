@@ -10,7 +10,6 @@ Rides Per Gender
 
 The Pie chart @@ Rides Per Gender shows the distribution of the the rides by gender. It can be seen that males were a predominant users of the bike sharing service.
 
-
 ![The  Normal or Subscription Service](https://github.com/raajasrini/bikesharing/blob/main/references/2_proportion_of_shortterm_to_subscribers.png) image compares the users who actively subscribed vs the user that just used the bike sharing service. Based on the number of subscriptions, this shows that people are willing to subscribe to the service.
 
 ### Users Checkout Time
@@ -43,4 +42,4 @@ Also the service was a popular hit for workers as the usage correlated with the 
 
 An analysis that shows landmarks around the city will also shed light on the usage of the service
 
-This [NYC Bike Dashboard ](NYC Bikes Story - Srini | Tableau Public) shows the visualization for the Bike Sharing Service.
+This [NYC Bike Dashboard - Srinivasan Raajagopal - Tableau Public](https://public.tableau.com/profile/srinivasan.raajagopal#!/) shows the visualization for the Bike Sharing Service.
